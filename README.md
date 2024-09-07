@@ -1,5 +1,6 @@
 # intro-app-color
 Práctica sobre el uso de HTML + CSS + JAVASCRIPT
+
 Practica 1.1 Introducción a la Programación de Interfaces Web
 Manejo de lenguajes HTML, CSS, JS
 
